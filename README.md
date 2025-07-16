@@ -61,7 +61,6 @@
 <h2>📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdjaved24&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjaved24&theme=radical" alt="Streak Stats" width="48%" />
 </p>
 
 ---
