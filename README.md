@@ -8,7 +8,7 @@
 
 <h2>🧠 About Me</h2>
 <ul>
-  <li>🚀 Currently working as a software engineer at <strong>TCS</strong> since August 2024</li>
+  <li>🚀 Currently working as a System Engineer at <strong>TCS</strong> since August 2024</li>
   <li>🏆 <strong>Ranked #1</strong> out of 550+ trainees in TCS Ignite Training Program (Batch 40)</li>
   <li>🎓 Pursuing MCA from <strong>Jamia Hamdard Online</strong></li>
   <li>💡 Passionate about <strong>Data Science</strong>, <strong>AI/ML</strong>, and <strong>Backend Development</strong></li>
