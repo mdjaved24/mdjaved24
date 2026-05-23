@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Javed</h1>
 <p align="center">
-  A passionate Data Science & AI/ML enthusiast from Jamshedpur, India <br/>
+  A passionate Data Science & AI/ML enthusiast<br/>
   Working at <strong>Tata Consultancy Services (TCS)</strong> | Microsoft Azure Certified AI Engineer Associate</strong>
 </p>
 
